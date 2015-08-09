@@ -1,0 +1,21 @@
+describe outputTests
+  it should make life easier for you
+  it should all you to write high level tests
+  it should allow you to worry about the details later
+
+  context when it's awesome
+    it should return true
+  context when you dance
+    it should dance with you
+    it should catch you when you fall
+
+describe doWeChant
+  it should have good lyrics
+
+  context when wizardly chant fails
+    it should blow up
+
+  describe when wizardly chant succeeds
+    it should create a wave of serenity
+    context when near monsters
+      it should terrify them
